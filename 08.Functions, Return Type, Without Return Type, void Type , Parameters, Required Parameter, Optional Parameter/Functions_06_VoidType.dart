@@ -1,6 +1,6 @@
 //|||||||Functions =====  VOID TYPE|||||
 
-// A function with a void return type is a function
+// A function with a void type is a function
 // that performs an action but doesn't return any data to the calling code.
 
 //Void functions do not return a value.
