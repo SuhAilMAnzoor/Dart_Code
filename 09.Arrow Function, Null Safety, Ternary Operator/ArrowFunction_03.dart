@@ -13,7 +13,8 @@ void main() {
 
 //Arrow Function
 // This Arrow (=>) Replace Curely Braces And Return the value of Single Statment.
-//Arrow Function is used where we have single line of code in curely braces
+//Arrow Function is used where we have single line of code in curely braces.
+
 SumofTwoNumberss(num1, num2) => num1 + num2;
 
 
@@ -21,3 +22,6 @@ SumofTwoNumberss(num1, num2) => num1 + num2;
 // SumofTwoNumberss(num1, num2) {
 //   return num1 + num2;
 // }
+
+ // Exceeds code in Three to four lines same functionality happens with Arrow Function
+ //that Helps to reduce the code and make it more clean.
