@@ -7,8 +7,8 @@ void main() {
 // want to perform some calculations or operation if those
 // actions are single line code so for that we use arraw
 // function for that one it is not necessary to use arrow
-// function but it helps to reduce the code and return the value
-// , we mainly create the structure before this
+// function but it helps to reduce the code and return the value,
+// we mainly create the structure before this
 // like below function at the bottom commited function
 
 //Arrow Function
