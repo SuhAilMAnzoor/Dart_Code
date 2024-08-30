@@ -20,7 +20,7 @@ void main() {
   StudentInfo(name: "Sohail", city: "Badah");
 }
 
-// Function defined here
+// Function Defined here
 StudentInfo({required name, required city}) {
   print("Name : $name");
   print("City : $city");
