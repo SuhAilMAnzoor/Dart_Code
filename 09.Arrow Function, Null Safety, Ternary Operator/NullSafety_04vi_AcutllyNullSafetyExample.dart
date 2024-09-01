@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  String name = stdin.readLineSync()!;
+  String name = stdin.readLineSync();
 
   // Adding <!> Mark at the end input or variable name
   // you set it that you take input in String not null Value
