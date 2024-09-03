@@ -13,5 +13,5 @@ void main() {
   // set the value of string
   // or even other datatypes you can use it
 
-  //type lagana best approach hai
+  //type lagana best approach hai.
 }
