@@ -73,7 +73,7 @@ deleteTask() {}
 // make functions for each option Rather than making 
 // Each Option Logic
 // In Future we want to change something in any option
-// we don't need to go where the whole code is written
+// we don't need to go where over whole code written is
 // we just need to go any option's function and add delete updates any thing
 // in the function 
 // this is best practice for that to avoid long lines of good in single file
