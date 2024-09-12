@@ -1,4 +1,7 @@
-void main() {}
+void main() {
+  Person obj = Person();
+  obj.name;
+}
 
 class Person {
   String? name;
